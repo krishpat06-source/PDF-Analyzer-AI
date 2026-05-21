@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -41,6 +42,7 @@ export default function RootLayout({
             <div className="footer-copyright">© 2026 PDF Analyzer AI. All rights reserved.</div>
           </footer>
         </div>
+        <Analytics />
       </body>
     </html>
   );
