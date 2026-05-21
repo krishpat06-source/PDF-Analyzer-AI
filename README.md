@@ -1,6 +1,5 @@
-# AI Notes Summarizer 🚀
-
-An AI-powered web application that summarizes notes and PDFs into concise, easy-to-understand summaries.
+# PDF Analyzer AI 🚀
+An AI-powered web application that analyzes PDFs, generates summaries, extracts keywords, and creates exam-focused questions.
 
 ## Features
 - AI-powered note summarization
