@@ -13,6 +13,9 @@ An AI-powered web application that summarizes notes and PDFs into concise, easy-
 - TypeScript
 - AI API
 - Vercel
+- 
+## Development Journey
+Initially built using Python, later migrated to Next.js to improve UI, deployment, and overall user experience.
 
 ## Live Demo
 https://ai-notes-summarizer-zeta.vercel.app/
