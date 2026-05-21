@@ -17,7 +17,7 @@ An AI-powered web application that analyzes PDFs, generates summaries, extracts 
 Initially built using Python, later migrated to Next.js to improve UI, deployment, and overall user experience.
 
 ## Live Demo
-https://ai-notes-summarizer-zeta.vercel.app/
+https://pdfanalyzer-ai.vercel.app
 
 ## Feedback
 Suggestions and feedback are welcome:
